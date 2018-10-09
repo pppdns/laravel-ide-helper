@@ -11,9 +11,9 @@
     ],
     "require": {
         "php": ">=7",
-        "illuminate/support": "^5.5,<5.8",
-        "illuminate/console": "^5.5,<5.8",
-        "illuminate/filesystem": "^5.5,<5.8",
+        "illuminate/support": "^5.4,<5.8",
+        "illuminate/console": "^5.4,<5.8",
+        "illuminate/filesystem": "^5.4,<5.8",
         "barryvdh/reflection-docblock": "^2.0.4",
         "composer/composer": "^1.6"
     },
